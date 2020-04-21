@@ -24,4 +24,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-Made by Literal and Yrr0r.
+------
+
+*Made by Literal and Yrr0r.*
+
